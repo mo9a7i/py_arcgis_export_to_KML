@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Folder id="2">
+            <Style id="5">
+                <LineStyle id="6">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <name>اسماء الشوارع scal 1:9,028new_cl</name>
+            <description>Layer ID: 0, Visibility: Hidden</description>
+            <Placemark id="4">
+                <name>اسماء الشوارع scal 1:9,028new_cl</name>
+                <description>Auto-generated polyline for layer 'اسماء الشوارع scal 1:9,028new_cl'</description>
+                <styleUrl>#5</styleUrl>
+                <LineString id="3">
+                    <coordinates>46.266049101424066,24.249555016056743,0.0 47.88175724870799,24.249555016056743,0.0 47.88175724870799,25.456239610809774,0.0 46.266049101424066,25.456239610809774,0.0 46.266049101424066,24.249555016056743,0.0</coordinates>
+                </LineString>
+            </Placemark>
+        </Folder>
+        <Folder id="7">
+            <Style id="10">
+                <LineStyle id="11">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <name>شارع عرض مدينة الرياضNew_st_seg </name>
+            <description>Layer ID: 1, Visibility: Hidden</description>
+            <Placemark id="9">
+                <name>شارع عرض مدينة الرياضNew_st_seg </name>
+                <description>Auto-generated polyline for layer 'شارع عرض مدينة الرياضNew_st_seg '</description>
+                <styleUrl>#10</styleUrl>
+                <LineString id="8">
+                    <coordinates>46.266049101424066,24.249555016056743,0.0 47.88175724870799,24.249555016056743,0.0 47.88175724870799,25.456239610809774,0.0 46.266049101424066,25.456239610809774,0.0 46.266049101424066,24.249555016056743,0.0</coordinates>
+                </LineString>
+            </Placemark>
+        </Folder>
+        <Folder id="12">
+            <Style id="15">
+                <LineStyle id="16">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <name>شارع عرض مدينة الرياض</name>
+            <description>Layer ID: 2, Visibility: Hidden</description>
+            <Placemark id="14">
+                <name>شارع عرض مدينة الرياض</name>
+                <description>Auto-generated polyline for layer 'شارع عرض مدينة الرياض'</description>
+                <styleUrl>#15</styleUrl>
+                <LineString id="13">
+                    <coordinates>46.266049101424066,24.249555016056743,0.0 47.88175724870799,24.249555016056743,0.0 47.88175724870799,25.456239610809774,0.0 46.266049101424066,25.456239610809774,0.0 46.266049101424066,24.249555016056743,0.0</coordinates>
+                </LineString>
+            </Placemark>
+        </Folder>
+        <Folder id="17">
+            <Style id="20">
+                <LineStyle id="21">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <name>شارع عرض مدينة الرياض</name>
+            <description>Layer ID: 3, Visibility: Visible</description>
+            <Placemark id="19">
+                <name>شارع عرض مدينة الرياض</name>
+                <description>Auto-generated polyline for layer 'شارع عرض مدينة الرياض'</description>
+                <styleUrl>#20</styleUrl>
+                <LineString id="18">
+                    <coordinates>46.266049101424066,24.249555016056743,0.0 47.88175724870799,24.249555016056743,0.0 47.88175724870799,25.456239610809774,0.0 46.266049101424066,25.456239610809774,0.0 46.266049101424066,24.249555016056743,0.0</coordinates>
+                </LineString>
+            </Placemark>
+        </Folder>
+        <Folder id="22">
+            <Style id="25">
+                <LineStyle id="26">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <name>اسماء الشوارع scal 1:9,028</name>
+            <description>Layer ID: 4, Visibility: Hidden</description>
+            <Placemark id="24">
+                <name>اسماء الشوارع scal 1:9,028</name>
+                <description>Auto-generated polyline for layer 'اسماء الشوارع scal 1:9,028'</description>
+                <styleUrl>#25</styleUrl>
+                <LineString id="23">
+                    <coordinates>46.266049101424066,24.249555016056743,0.0 47.88175724870799,24.249555016056743,0.0 47.88175724870799,25.456239610809774,0.0 46.266049101424066,25.456239610809774,0.0 46.266049101424066,24.249555016056743,0.0</coordinates>
+                </LineString>
+            </Placemark>
+        </Folder>
+        <Folder id="27">
+            <Style id="30">
+                <LineStyle id="31">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <name>اسماء الشوارع scal 1:9,028</name>
+            <description>Layer ID: 5, Visibility: Hidden</description>
+            <Placemark id="29">
+                <name>اسماء الشوارع scal 1:9,028</name>
+                <description>Auto-generated polyline for layer 'اسماء الشوارع scal 1:9,028'</description>
+                <styleUrl>#30</styleUrl>
+                <LineString id="28">
+                    <coordinates>46.266049101424066,24.249555016056743,0.0 47.88175724870799,24.249555016056743,0.0 47.88175724870799,25.456239610809774,0.0 46.266049101424066,25.456239610809774,0.0 46.266049101424066,24.249555016056743,0.0</coordinates>
+                </LineString>
+            </Placemark>
+        </Folder>
+        <Folder id="32">
+            <Style id="35">
+                <LineStyle id="36">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <name>اسماء الشوارع scal 1:18,056</name>
+            <description>Layer ID: 6, Visibility: Hidden</description>
+            <Placemark id="34">
+                <name>اسماء الشوارع scal 1:18,056</name>
+                <description>Auto-generated polyline for layer 'اسماء الشوارع scal 1:18,056'</description>
+                <styleUrl>#35</styleUrl>
+                <LineString id="33">
+                    <coordinates>46.266049101424066,24.249555016056743,0.0 47.88175724870799,24.249555016056743,0.0 47.88175724870799,25.456239610809774,0.0 46.266049101424066,25.456239610809774,0.0 46.266049101424066,24.249555016056743,0.0</coordinates>
+                </LineString>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
