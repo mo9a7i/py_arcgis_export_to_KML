@@ -19,3 +19,28 @@ https://www.arcgis.com/apps/Viewer/index.html?appid=f593b8c6f3404ccfb0c507256ae2
 
 
 https://map.visitsaudi.com/api/pointsOfInterest?cities=RUH&regions=RUH&locale=en&type=city,experiences&categories=
+
+## Installation
+```bash
+pnpm install
+```
+
+## Configuration
+Create a `.env` file with:
+```bash
+VISIT_SAUDI_API=https://map.visitsaudi.com/api/pointsOfInterest
+ARCGIS_API_BASE=https://www.arcgis.com/sharing/rest/content/items
+```
+
+## Usage
+```bash
+python src/main.py
+```
+
+## Output Structure
+```
+output/
+├── pois/
+├── streets/
+└── districts/
+```
