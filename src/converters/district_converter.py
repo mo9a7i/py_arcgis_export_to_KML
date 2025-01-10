@@ -19,16 +19,17 @@ class DistrictConverter:
             print(f"Error fetching districts: {e}")
             return []
 
-    def _format_coordinates(self, boundaries: List[List[float]]) -> List[Tuple[float, float]]:
+    def _format_coordinates(self, boundaries: List[List[List[float]]]) -> List[Tuple[float, float, float]]:
         """Convert boundary coordinates to KML format
         
         Args:
-            boundaries: List of coordinate pairs [latitude, longitude]
+            boundaries: List of coordinate arrays
             
         Returns:
-            List of (longitude, latitude) tuples as required by KML
+            Flattened list of (longitude, latitude, altitude) tuples
         """
-        return [(coord[0], coord[1]) for coord in boundaries]
+        # Flatten the coordinates and convert to (lon, lat, alt) tuples
+        return [(coord[1], coord[0], 0.0) for ring in boundaries for coord in ring]
 
     def convert(self, data):
         """Convert districts to KML without styling"""
