@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>2034 World Cup Stadiums</name>
+    
+
+    <Placemark>
+      <name>King Fahd Stadium</name>
+      <styleUrl>#icon-1596-0F9D58-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          46.8390181,24.7886467,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>King Salman International Stadium</name>
+      <Point>
+        <coordinates>
+          46.6951038,24.8618918,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>South Riyadh Stadium</name>
+      <Point>
+        <coordinates>
+          46.6711279,24.5535671,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Prince Mohammed bin Salman Stadium</name>
+      <Point>
+        <coordinates>
+          46.528,24.59,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>استاد روشن / ROSHN Stadium</name>
+      <Point>
+        <coordinates>
+          46.6097656,24.4611326,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Murabba Stadium</name>
+      <Point>
+        <coordinates>
+          46.5554846,24.8047313,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Al -Awwal Park</name>
+      <Point>
+        <coordinates>
+          46.6237711,24.7292039,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Prince Faisal Bin Fahd Stadium</name>
+      <Point>
+        <coordinates>
+          46.739759,24.6626929,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
