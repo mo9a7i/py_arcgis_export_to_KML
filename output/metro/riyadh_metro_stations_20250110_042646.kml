@@ -1,0 +1,4792 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="2273">
+        <Folder id="2274">
+            <name>Metro Stations</name>
+            <Placemark id="2276">
+                <name>1Y1</name>
+                <description>Station Name: 1Y1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>1Y1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2275">
+                    <coordinates>46.61616724098023,24.83042919368076,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2290">
+                <name>1Z1</name>
+                <description>Station Name: 1Z1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>1</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>1Z1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2289">
+                    <coordinates>46.62563548407485,24.811627637021914,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2304">
+                <name>1A1</name>
+                <description>Station Name: 1A1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>2</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>1A1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2303">
+                    <coordinates>46.64308076689245,24.767474352417437,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2318">
+                <name>1A2</name>
+                <description>Station Name: 1A2</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>3</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>1A2</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2317">
+                    <coordinates>46.65428275848542,24.754904023545695,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2332">
+                <name>1B1</name>
+                <description>Station Name: 1B1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>4</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>1B1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2331">
+                    <coordinates>46.659448071369106,24.744690204748597,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2346">
+                <name>1B2</name>
+                <description>Station Name: 1B2</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>5</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>1B2</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2345">
+                    <coordinates>46.66337370916071,24.736898748369832,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2360">
+                <name>2B2-S1</name>
+                <description>Station Name: 2B2-S1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>6</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>2B2-S1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2359">
+                    <coordinates>46.66671544201763,24.72676504549605,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2374">
+                <name>2B1</name>
+                <description>Station Name: 2B1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>7</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>2B1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2373">
+                    <coordinates>46.65447140469509,24.723737829198896,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2388">
+                <name>2A3</name>
+                <description>Station Name: 2A3</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>8</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>2A3</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2387">
+                    <coordinates>46.64683572478007,24.720514701250057,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2402">
+                <name>2A2</name>
+                <description>Station Name: 2A2</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>9</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>2A2</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2401">
+                    <coordinates>46.6386430893889,24.71703852539592,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2416">
+                <name>2A1</name>
+                <description>Station Name: 2A1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>10</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>2A1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2415">
+                    <coordinates>46.62822263209311,24.709139248449528,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2430">
+                <name>1B4</name>
+                <description>Station Name: 1B4</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>11</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>1B4</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2429">
+                    <coordinates>46.67100040592288,24.721828441960955,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2444">
+                <name>1C1</name>
+                <description>Station Name: 1C1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>12</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>1C1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2443">
+                    <coordinates>46.67521350460541,24.713480648641728,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2458">
+                <name>1C2</name>
+                <description>Station Name: 1C2</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>13</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>1C2</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2457">
+                    <coordinates>46.68034288487773,24.703345038697677,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2472">
+                <name>1C3</name>
+                <description>Station Name: 1C3</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>14</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>1C3</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2471">
+                    <coordinates>46.68381038187443,24.69648140768883,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2486">
+                <name>1C4</name>
+                <description>Station Name: 1C4</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>15</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>1C4</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2485">
+                    <coordinates>46.687250929412606,24.689641884385125,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2500">
+                <name>1D2</name>
+                <description>Station Name: 1D2</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>16</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>1D2</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2499">
+                    <coordinates>46.69503033977308,24.674239340204245,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2514">
+                <name>1D5</name>
+                <description>Station Name: 1D5</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>17</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>1D5</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2513">
+                    <coordinates>46.701947367460804,24.665880194484462,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2528">
+                <name>1E2</name>
+                <description>Station Name: 1E2</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>18</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>1E2</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2527">
+                    <coordinates>46.704309936658035,24.659749254053395,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2542">
+                <name>1F1</name>
+                <description>Station Name: 1F1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>19</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>1F1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2541">
+                    <coordinates>46.710993402371884,24.652695442672485,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2556">
+                <name>1F4</name>
+                <description>Station Name: 1F4</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>20</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>1F4</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2555">
+                    <coordinates>46.71296969599695,24.646065802916766,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2570">
+                <name>1F5</name>
+                <description>Station Name: 1F5</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>21</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>1F5</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2569">
+                    <coordinates>46.71491005701065,24.638202855197548,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2584">
+                <name>1F7</name>
+                <description>Station Name: 1F7</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>22</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>1F7</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2583">
+                    <coordinates>46.71642820984081,24.62886138936165,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2598">
+                <name>3E2</name>
+                <description>Station Name: 3E2</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>23</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>3E2</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2597">
+                    <coordinates>46.71606888372716,24.62888588712588,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2612">
+                <name>3E1</name>
+                <description>Station Name: 3E1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>24</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>3E1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2611">
+                    <coordinates>46.712385791062275,24.626975047096323,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2626">
+                <name>3D2</name>
+                <description>Station Name: 3D2</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>25</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>3D2</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2625">
+                    <coordinates>46.698012746516355,24.618449404914564,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2640">
+                <name>3D1</name>
+                <description>Station Name: 3D1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>26</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>3D1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2639">
+                    <coordinates>46.68414275852955,24.61414553139622,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2654">
+                <name>3C2</name>
+                <description>Station Name: 3C2</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>27</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>3C2</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2653">
+                    <coordinates>46.64381738542543,24.60057960239468,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2668">
+                <name>3B2</name>
+                <description>Station Name: 3B2</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>28</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>3B2</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2667">
+                    <coordinates>46.614559256621654,24.58263372732162,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2682">
+                <name>3B1</name>
+                <description>Station Name: 3B1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>29</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>3B1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2681">
+                    <coordinates>46.58826556825547,24.582772599224676,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2696">
+                <name>3A2</name>
+                <description>Station Name: 3A2</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>30</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>3A2</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2695">
+                    <coordinates>46.56149577278872,24.585329448510333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2710">
+                <name>3A1</name>
+                <description>Station Name: 3A1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>31</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>3A1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2709">
+                    <coordinates>46.5436103154819,24.59153755538172,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2724">
+                <name>1F8</name>
+                <description>Station Name: 1F8</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>32</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>1F8</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2723">
+                    <coordinates>46.72119826399948,24.62539082423838,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2738">
+                <name>1F9</name>
+                <description>Station Name: 1F9</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>33</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>1F9</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2737">
+                    <coordinates>46.725402379529164,24.617649075320166,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2752">
+                <name>1G1</name>
+                <description>Station Name: 1G1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>34</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>1G1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2751">
+                    <coordinates>46.727594268822415,24.610519382577134,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2766">
+                <name>1G2</name>
+                <description>Station Name: 1G2</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>35</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>1G2</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2765">
+                    <coordinates>46.73528384765448,24.601576066258403,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2780">
+                <name>1H2</name>
+                <description>Station Name: 1H2</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>36</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>1H2</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2779">
+                    <coordinates>46.74936943130947,24.59753298743431,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2794">
+                <name>1J1</name>
+                <description>Station Name: 1J1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>37</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>1J1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2793">
+                    <coordinates>46.760840917487684,24.58728176792792,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2808">
+                <name>1J2</name>
+                <description>Station Name: 1J2</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>38</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>1J2</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2807">
+                    <coordinates>46.77634583929158,24.55989750444388,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2822">
+                <name>5A2</name>
+                <description>Station Name: 5A2</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>39</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>5A2</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2821">
+                    <coordinates>46.717730767002784,24.659732926246622,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2836">
+                <name>5A5</name>
+                <description>Station Name: 5A5</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>40</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>5A5</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2835">
+                    <coordinates>46.71823382356189,24.667014916067057,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2850">
+                <name>5A3</name>
+                <description>Station Name: 5A3</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>41</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>5A3</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2849">
+                    <coordinates>46.71842246977155,24.674443413905152,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2864">
+                <name>5A4</name>
+                <description>Station Name: 5A4</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>42</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>5A4</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2863">
+                    <coordinates>46.71828772247894,24.681675570228816,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2878">
+                <name>5B1</name>
+                <description>Station Name: 5B1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>43</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>5B1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2877">
+                    <coordinates>46.71813500888064,24.688931793034104,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2892">
+                <name>5B2</name>
+                <description>Station Name: 5B2</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>44</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>5B2</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2891">
+                    <coordinates>46.71791941321244,24.698840058377158,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2906">
+                <name>5B3</name>
+                <description>Station Name: 5B3</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>45</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>5B3</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2905">
+                    <coordinates>46.71491904016349,24.70738469226418,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2920">
+                <name>5B4</name>
+                <description>Station Name: 5B4</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>46</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>5B4</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2919">
+                    <coordinates>46.70830743967237,24.70947383542693,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2934">
+                <name>5C1</name>
+                <description>Station Name: 5C1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>47</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>5C1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2933">
+                    <coordinates>46.700429214630645,24.71278701403553,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2948">
+                <name>5C2</name>
+                <description>Station Name: 5C2</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>48</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>5C2</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2947">
+                    <coordinates>46.70106701848237,24.728217430403696,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2962">
+                <name>2B4</name>
+                <description>Station Name: 2B4</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>49</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>2B4</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2961">
+                    <coordinates>46.67734251182877,24.733390393951424,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2976">
+                <name>2C1</name>
+                <description>Station Name: 2C1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>50</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>2C1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2975">
+                    <coordinates>46.68518480425913,24.736776365579374,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2990">
+                <name>2C2</name>
+                <description>Station Name: 2C2</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>51</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>2C2</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="2989">
+                    <coordinates>46.693691849999745,24.74029278310356,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3004">
+                <name>5C4</name>
+                <description>Station Name: 5C4</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>52</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>5C4</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3003">
+                    <coordinates>46.695057289231606,24.74029278310356,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3018">
+                <name>2C2a</name>
+                <description>Station Name: 2C2a</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>53</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>2C2a</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3017">
+                    <coordinates>46.7121971448526,24.74802691997497,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3032">
+                <name>2C3</name>
+                <description>Station Name: 2C3</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>54</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>2C3</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3031">
+                    <coordinates>46.72702833019342,24.754569558748425,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3046">
+                <name>2D2</name>
+                <description>Station Name: 2D2</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>55</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>2D2</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3045">
+                    <coordinates>46.75917903421206,24.767661959631138,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3060">
+                <name>6F1</name>
+                <description>Station Name: 6F1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>56</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>6F1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3059">
+                    <coordinates>46.77654346865409,24.77629974131761,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3074">
+                <name>2E2</name>
+                <description>Station Name: 2E2</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>57</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>2E2</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3073">
+                    <coordinates>46.794276212362604,24.782106863846963,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3088">
+                <name>2F1</name>
+                <description>Station Name: 2F1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>58</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>2F1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3087">
+                    <coordinates>46.810499786393805,24.792154501389295,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3102">
+                <name>2F2</name>
+                <description>Station Name: 2F2</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>59</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>2F2</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3101">
+                    <coordinates>46.82098312575948,24.798556183653737,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3116">
+                <name>2G1</name>
+                <description>Station Name: 2G1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>60</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>2G1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3115">
+                    <coordinates>46.836416182340656,24.79306788263406,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3130">
+                <name>4B1</name>
+                <description>Station Name: 4B1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>61</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>4B1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3129">
+                    <coordinates>46.66025655512482,24.786331537857286,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3144">
+                <name>4C1</name>
+                <description>Station Name: 4C1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>62</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>4C1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3143">
+                    <coordinates>46.69602746973845,24.801394021157865,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3158">
+                <name>4C2</name>
+                <description>Station Name: 4C2</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>63</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>4C2</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3157">
+                    <coordinates>46.7094483000832,24.8075261378481,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3172">
+                <name>6D2</name>
+                <description>Station Name: 6D2</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>64</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>6D2</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3171">
+                    <coordinates>46.72921123633383,24.786445716239704,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3186">
+                <name>6E1</name>
+                <description>Station Name: 6E1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>65</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>6E1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3185">
+                    <coordinates>46.76641047224922,24.791224802858327,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3200">
+                <name>4D1</name>
+                <description>Station Name: 4D1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>66</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>4D1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3199">
+                    <coordinates>46.71738042404197,24.841483763423412,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3214">
+                <name>4E1</name>
+                <description>Station Name: 4E1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>67</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>4E1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3213">
+                    <coordinates>46.704058408378486,24.860174826939758,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3228">
+                <name>4G1</name>
+                <description>Station Name: 4G1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>68</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>4G1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3227">
+                    <coordinates>46.710157969157656,24.944913465321953,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3242">
+                <name>4G2</name>
+                <description>Station Name: 4G2</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>69</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>4G2</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3241">
+                    <coordinates>46.704372818727926,24.95677222937331,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3256">
+                <name>4G3</name>
+                <description>Station Name: 4G3</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>70</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>4G3</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3255">
+                    <coordinates>46.70096820380112,24.96215553583785,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3270">
+                <name>3E3</name>
+                <description>Station Name: 3E3</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>71</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>3E3</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3269">
+                    <coordinates>46.72096470202561,24.631841915425653,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3284">
+                <name>3E4</name>
+                <description>Station Name: 3E4</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>72</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>3E4</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3283">
+                    <coordinates>46.725393396376326,24.634046642388196,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3298">
+                <name>3E5</name>
+                <description>Station Name: 3E5</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>73</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>3E5</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3297">
+                    <coordinates>46.731942114797555,24.637312833047304,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3312">
+                <name>3E6</name>
+                <description>Station Name: 3E6</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>74</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>3E6</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3311">
+                    <coordinates>46.73943406426711,24.64484107725213,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3326">
+                <name>3F1</name>
+                <description>Station Name: 3F1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>75</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>3F1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3325">
+                    <coordinates>46.739793390380754,24.650474715854457,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3340">
+                <name>3F2</name>
+                <description>Station Name: 3F2</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>76</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>3F2</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3339">
+                    <coordinates>46.74455446138659,24.660500330855623,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3354">
+                <name>3G1</name>
+                <description>Station Name: 3G1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>77</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>3G1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3353">
+                    <coordinates>46.76030192831721,24.673014890986487,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3368">
+                <name>3H1</name>
+                <description>Station Name: 3H1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>78</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>3H1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3367">
+                    <coordinates>46.77877129055871,24.679977765338744,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3382">
+                <name>3H2</name>
+                <description>Station Name: 3H2</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>79</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>3H2</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3381">
+                    <coordinates>46.796261489140505,24.68621381979557,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3396">
+                <name>6H2</name>
+                <description>Station Name: 6H2</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>80</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>6H2</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3395">
+                    <coordinates>46.827693540931854,24.70053760632317,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3410">
+                <name>3J2</name>
+                <description>Station Name: 3J2</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>81</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>3J2</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3409">
+                    <coordinates>46.84825597778535,24.71312975161808,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3424">
+                <name>3K1</name>
+                <description>Station Name: 3K1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>82</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>3K1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3423">
+                    <coordinates>46.8602395036755,24.721787642768657,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3438">
+                <name>6H1</name>
+                <description>Station Name: 6H1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>83</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>6H1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3437">
+                    <coordinates>46.81122742177394,24.722726020807343,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3452">
+                <name>6G2</name>
+                <description>Station Name: 6G2</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>84</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>6G2</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3451">
+                    <coordinates>46.79942355894062,24.739640091310903,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3466">
+                <name>6G1</name>
+                <description>Station Name: 6G1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>85</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>6G1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3465">
+                    <coordinates>46.79025175988975,24.7567721152463,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3480">
+                <name>4A1</name>
+                <description>Station Name: 4A1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>86</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>4A1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3479">
+                    <coordinates>46.64305381743393,24.767458038733285,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3494">
+                <name>1B3</name>
+                <description>Station Name: 1B3</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>87</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>1B3</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3493">
+                    <coordinates>46.666697475711956,24.72680584305636,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3508">
+                <name>5A1</name>
+                <description>Station Name: 5A1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>88</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>5A1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3507">
+                    <coordinates>46.71301461176115,24.646073967714226,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3522">
+                <name>2E1</name>
+                <description>Station Name: 2E1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>89</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>2E1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3521">
+                    <coordinates>46.77651651919557,24.776348678878538,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3536">
+                <name>3J1</name>
+                <description>Station Name: 3J1</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>90</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>3J1</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3535">
+                    <coordinates>46.8275947262506,24.70057025124927,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="3550">
+                <name>3c3</name>
+                <description>Station Name: 3c3</description>
+                <ExtendedData>
+                    <Data name="FID">
+                        <value>91</value>
+                    </Data>
+                    <Data name="OID_">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Name">
+                        <value>3c3</value>
+                    </Data>
+                    <Data name="FolderPath">
+                        <value>Temporary Places/Metro line/Metro line/Stations/Stations</value>
+                    </Data>
+                    <Data name="SymbolID">
+                        <value>0</value>
+                    </Data>
+                    <Data name="AltMode">
+                        <value>-1</value>
+                    </Data>
+                    <Data name="Base">
+                        <value>0</value>
+                    </Data>
+                    <Data name="Snippet">
+                        <value> </value>
+                    </Data>
+                    <Data name="PopupInfo">
+                        <value>
+
+
+
+
+
+
+
+
+
+</value>
+                    </Data>
+                    <Data name="HasLabel">
+                        <value>0</value>
+                    </Data>
+                    <Data name="LabelID">
+                        <value>-1</value>
+                    </Data>
+                </ExtendedData>
+                <Point id="3549">
+                    <coordinates>46.65466005090475,24.60722798982235,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
     <Document id="1">
+        <ExtendedData>
+            <Data name="updated_at">
+                <value>2025-01-10T04:44:51.873277</value>
+            </Data>
+        </ExtendedData>
         <Folder id="2">
             <Style id="9">
                 <LineStyle id="11">

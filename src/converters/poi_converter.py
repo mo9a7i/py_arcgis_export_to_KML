@@ -6,63 +6,131 @@ from typing import Dict, Any, List, Tuple
 class POIConverter:
     def __init__(self, output_manager):
         self.output_manager = output_manager
-        # Use the exact URL without any modifications
-        self.source_url = "https://map.visitsaudi.com/api/pointsOfInterest?cities=RUH&regions=RUH&locale=en&type=city,experiences&categories="
+        self.en_source_url = "https://map.visitsaudi.com/api/pointsOfInterest?cities=RUH&regions=RUH&locale=en&type=city,experiences&categories="
+        self.ar_source_url = "https://map.visitsaudi.com/api/pointsOfInterest?cities=RUH&regions=RUH&locale=ar&type=city,experiences&categories="
 
-    async def fetch_pois(self, data_manager) -> List[Dict[str, Any]]:
-        """Fetch POI data from Visit Saudi API"""
-        return await data_manager.fetch_url(self.source_url)
+    async def fetch_pois(self, data_manager) -> Tuple[List[Dict[str, Any]], List[Dict[str, Any]]]:
+        """Fetch POI data from Visit Saudi API in both English and Arabic"""
+        en_data = await data_manager.fetch_url(self.en_source_url)
+        ar_data = await data_manager.fetch_url(self.ar_source_url)
+        return en_data, ar_data
 
-    def _analyze_pois(self, pois: List[Dict[str, Any]]) -> None:
-        """Analyze POI data and print statistics"""
-        print("\nAnalyzing POI data:")
-        # print the first 1 poi
-        print(f"First POI: {pois}")
-        print(f"Data type: {type(pois)}")
-        print("First item type:", type(pois[0]) if pois else None)
-        print("First item:", pois[0] if pois else None)
+    def _merge_pois(self, en_pois: List[Dict[str, Any]], ar_pois: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+        """Merge English and Arabic POI data"""
+        merged_pois = []
         
-        # Ensure we have a list of dictionaries
-        if not all(isinstance(poi, dict) for poi in pois):
-            print("Warning: Some POIs are not dictionaries")
-            return
+        # Create map of Arabic POIs using slugPOI
+        ar_poi_map = {}
+        for poi in ar_pois:
+            if 'slugPOI' not in poi:
+                print(f"Warning: Arabic POI missing slugPOI: {poi.get('name', 'NO_NAME')}")
+            else:
+                ar_poi_map[poi['slugPOI']] = poi
         
-        # Count total POIs
-        print(f"\nTotal POIs: {len(pois)}")
+        if len(ar_poi_map) != len(ar_pois):
+            print(f"\nTotal Arabic POIs skipped due to missing slugPOI: {len(ar_pois) - len(ar_poi_map)}")
         
-        # Count POIs by region
-        regions = Counter(poi.get('slugRegion') for poi in pois if isinstance(poi, dict))
-        print("\nPOIs by region:")
-        for region, count in regions.items():
-            print(f"  {region}: {count}")
-        
-        # Count POIs by category
-        categories = Counter(poi.get('slugCategoryPOI', 'Uncategorized') for poi in pois if isinstance(poi, dict))
-        print("\nPOIs by category:")
-        for category, count in categories.items():
-            print(f"  {category}: {count}")
+        differences_count = 0
+        different_ids = []
 
-    def _group_by_category(self, pois: List[Dict[str, Any]]) -> Dict[str, List[Dict]]:
-        """Group POIs by their category"""
-        # First analyze the data
-        self._analyze_pois(pois)
-        
-        grouped = defaultdict(list)
-        
-        # Filter for Riyadh POIs and group by category
-        for poi in pois:
-            if poi.get('slugRegion') == 'RUH':
-                category = poi.get('slugCategoryPOI', 'Uncategorized')
-                grouped[category].append(poi)
-        
-        print(f"\nGrouped {sum(len(pois) for pois in grouped.values())} Riyadh POIs into {len(grouped)} categories")
-        return grouped
+        for en_poi in en_pois:
+            if 'slugPOI' not in en_poi:
+                print(f"Warning: English POI missing slugPOI: {en_poi.get('name', 'NO_NAME')}")
+                continue
+                
+            slug_poi = en_poi['slugPOI']
+            ar_poi = ar_poi_map.get(slug_poi)
+            
+            if not ar_poi:
+                print(f"Warning: No Arabic data found for POI {slug_poi}")
+                merged_pois.append(en_poi)
+                continue
 
-    def convert(self, pois: List[Dict[str, Any]]):
+            # Create merged POI starting with English data
+            merged_poi = en_poi.copy()
+            
+            # Add Arabic name, description and address
+            merged_poi['name_ar'] = ar_poi['name']
+            merged_poi['description_ar'] = ar_poi['description']
+            if ar_poi.get('address'):
+                merged_poi['address_ar'] = ar_poi['address']
+
+            # Handle IDs
+            if 'id' in ar_poi:
+                merged_poi['id_ar'] = ar_poi['id']
+
+            # Handle coordinates if they differ
+            if ar_poi.get('latitude') != en_poi.get('latitude'):
+                merged_poi['latitude_ar'] = ar_poi.get('latitude')
+            if ar_poi.get('longitude') != en_poi.get('longitude'):
+                merged_poi['longitude_ar'] = ar_poi.get('longitude')
+
+            # Handle website if it differs
+            if ar_poi.get('website') != en_poi.get('website') and ar_poi.get('website'):
+                merged_poi['website_ar'] = ar_poi['website']
+
+            # Combine images if they differ
+            if ar_poi.get('bannerImage') != en_poi.get('bannerImage'):
+                merged_poi['bannerImage'] = list(set(en_poi.get('bannerImage', []) + ar_poi.get('bannerImage', [])))
+            if ar_poi.get('e60Image') != en_poi.get('e60Image'):
+                merged_poi['e60Image'] = list(set(en_poi.get('e60Image', []) + ar_poi.get('e60Image', [])))
+
+            # Handle createdAt dates
+            if 'createdAt' in ar_poi and 'createdAt' in en_poi:
+                ar_date = ar_poi.get('createdAt')
+                en_date = en_poi.get('createdAt')
+                if ar_date and en_date:
+                    merged_poi['createdAt'] = min(ar_date, en_date)
+                else:
+                    merged_poi['createdAt'] = ar_date or en_date
+
+            # Check for differences in other fields (excluding handled fields)
+            for key, en_value in en_poi.items():
+                if key not in ['name', 'description', 'address', 'businessHours', 'id', 'createdAt',
+                             'latitude', 'longitude', 'website', 'bannerImage', 'e60Image']:
+                    ar_value = ar_poi.get(key)
+                    if en_value != ar_value:
+                        if differences_count == 0:
+                            print("\nDifferences found between English and Arabic data:")
+                        differences_count += 1
+                        if slug_poi not in different_ids:
+                            different_ids.append(slug_poi)
+                        print(f"POI {slug_poi}: Field '{key}' differs:")
+                        print(f"  EN: {en_value}")
+                        print(f"  AR: {ar_value}")
+
+            merged_pois.append(merged_poi)
+
+        print(f"\nTotal POIs with differences (excluding name/description/address/businessHours): {differences_count}")
+        if different_ids:
+            print(f"IDs with differences: {', '.join(different_ids)}")
+
+        return merged_pois
+
+    def _sanitize_text(self, text: str) -> str:
+        """Sanitize text for XML/KML output"""
+        if not text:
+            return ""
+        # Replace problematic characters
+        return (str(text)
+                .replace('&', '&amp;')
+                .replace('<', '&lt;')
+                .replace('>', '&gt;')
+                .replace('"', '&quot;')
+                .replace("'", '&apos;')
+                .strip())
+
+    def convert(self, pois_tuple: Tuple[List[Dict[str, Any]], List[Dict[str, Any]]]):
+        en_pois, ar_pois = pois_tuple
+        merged_pois = self._merge_pois(en_pois, ar_pois)
+        
         kml = simplekml.Kml()
         
         # Group POIs by category
-        grouped_pois = self._group_by_category(pois)
+        grouped_pois = defaultdict(list)
+        for poi in merged_pois:
+            category = poi.get('slugCategoryPOI', 'Uncategorized')
+            grouped_pois[category].append(poi)
         
         if not grouped_pois:
             print("No POIs to convert")
@@ -71,9 +139,6 @@ class POIConverter:
         # Create folders for each category
         for category, category_pois in grouped_pois.items():
             folder = kml.newfolder(name=category)
-            print(f"\nProcessing {category}:")
-            print(f"  POIs in category: {len(category_pois)}")
-            
             poi_count = 0
             skipped_count = 0
             
@@ -82,26 +147,67 @@ class POIConverter:
                 if not poi.get('latitude') or not poi.get('longitude'):
                     skipped_count += 1
                     continue
-
-                # Create placemark for each POI
-                pnt = folder.newpoint(name=poi['name'])
-                pnt.coords = [(float(poi['longitude']), float(poi['latitude']))]
                 
-                # Add description with available details
+                # Create placemark
+                pnt = folder.newpoint(name=poi['name'])
+                pnt.coords = [(poi['longitude'], poi['latitude'])]
+                
+                # Build description
                 description_parts = []
                 if poi.get('description'):
                     description_parts.append(poi['description'])
+                if poi.get('businessHours'):
+                    description_parts.append(f"Hours: {poi['businessHours']}")
+                if poi.get('website'):
+                    description_parts.append(f"Website: {poi['website']}")
                     
                 pnt.description = "\n\n".join(description_parts)
                 
-                # Add extended data
-                pnt.extendeddata.newdata(name="category", value=category)
-                pnt.extendeddata.newdata(name="rating", value=str(poi.get('rating', 0)))
-                pnt.extendeddata.newdata(name="id", value=poi.get('id', ''))
-                pnt.extendeddata.newdata(name="slugPOI", value=poi.get('slugPOI', ''))
-                pnt.extendeddata.newdata(name="businessHours", value=str(poi.get('businessHours', '')))
-                pnt.extendeddata.newdata(name="poiType", value=str(poi.get('poiType', '')))
-                pnt.extendeddata.newdata(name="website", value=str(poi.get('website', '')))
+                # Create ExtendedData element
+                extdata = pnt.extendeddata
+                
+                # Add regular fields
+                fields = [
+                    "slugGovernorate", "website", "website_ar",
+                    "slugPOI", "slugCity", "poiType", "slugCategoryPOI",
+                    "active", "external", "featured", "slugRegion", "businessHours",
+                    "rating", "publishedAt", "createdAt", "lastUpdatedAt", "videos",
+                    "name_ar", "description_ar", "address", "address_ar",
+                    "latitude_ar", "longitude_ar"  # Add Arabic coordinates
+                ]
+                
+                # Add IDs if they exist
+                if 'id' in poi:
+                    extdata.newdata(
+                        name='id',
+                        value=self._sanitize_text(str(poi['id']))
+                    )
+                if 'id_ar' in poi:
+                    extdata.newdata(
+                        name='id_ar',
+                        value=self._sanitize_text(str(poi['id_ar']))
+                    )
+                
+                for field in fields:
+                    value = poi.get(field)
+                    if value is not None:  # Include empty strings but exclude None
+                        extdata.newdata(
+                            name=field,
+                            value=self._sanitize_text(str(value))
+                        )
+                
+                # Add image arrays as JSON strings
+                if poi.get('bannerImage'):
+                    extdata.newdata(
+                        name='bannerImages',
+                        value=json.dumps(poi['bannerImage'])
+                    )
+                
+                if poi.get('e60Image'):
+                    extdata.newdata(
+                        name='e60Images',
+                        value=json.dumps(poi['e60Image'])
+                    )
                 
                 poi_count += 1
             

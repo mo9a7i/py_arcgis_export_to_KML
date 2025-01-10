@@ -7,9 +7,17 @@ class DistrictConverter:
         self.output_manager = output_manager
         self.source_url = "https://raw.githubusercontent.com/homaily/Saudi-Arabia-Regions-Cities-and-Districts/refs/heads/master/json/districts.json"
 
-    async def fetch_districts(self, data_manager) -> Dict[str, Any]:
-        """Fetch districts data from GitHub"""
-        return await data_manager.fetch_url(self.source_url)
+    async def fetch_districts(self, data_manager):
+        """Fetch districts data"""
+        try:
+            districts = await data_manager.fetch_districts()
+            if not districts:
+                print("No districts data received")
+                return []
+            return districts
+        except Exception as e:
+            print(f"Error fetching districts: {e}")
+            return []
 
     def _format_coordinates(self, boundaries: List[List[float]]) -> List[Tuple[float, float]]:
         """Convert boundary coordinates to KML format
@@ -23,6 +31,11 @@ class DistrictConverter:
         return [(coord[0], coord[1]) for coord in boundaries]
 
     def convert(self, data):
+        """Convert districts to KML"""
+        if not data:
+            print("No district data to convert")
+            return None
+            
         kml = simplekml.Kml()
         riyadh_districts = [d for d in data if d["region_id"] == 1 and d["city_id"] == 3]
         folder = kml.newfolder(name="Riyadh City Districts")
