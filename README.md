@@ -8,19 +8,32 @@ This script creates KML files from ArcGIS Online Webmap data, including Riyadh M
 - POIs near metro stations
 - Districts and streets data
 
-if you have a viewer link that has id like this
+## Data Sources
 
+### Metro Data
+The metro data is sourced from ArcGIS Online Webmap. To access the data:
+
+1. Original viewer link:
+```
 https://www.arcgis.com/apps/Viewer/index.html?appid=f593b8c6f3404ccfb0c507256ae295a6
+```
 
-add it to this link
-https://www.arcgis.com/sharing/rest/content/items/f593b8c6f3404ccfb0c507256ae295a6/data?f=json
+2. API endpoint pattern:
+```
+https://www.arcgis.com/sharing/rest/content/items/{webmap_id}/data?f=json
+```
 
-you will get webmap id in the response, add it to this
-`https://www.arcgis.com/sharing/rest/content/items/6ee6a02b3cb3436982bd3b9a64dcc295/data?f=json`
+### Points of Interest (POIs)
+POIs are fetched from Visit Saudi's API:
+```
+https://map.visitsaudi.com/api/pointsOfInterest?cities=RUH&regions=RUH&locale={en|ar}&type=city,experiences&categories=
+```
 
-
-https://www.arcgis.com/apps/Viewer/index.html?appid=f593b8c6f3404ccfb0c507256ae295a6
-
+### Districts Data
+Districts information is sourced from a public GitHub repository:
+```
+https://raw.githubusercontent.com/homaily/Saudi-Arabia-Regions-Cities-and-Districts/refs/heads/master/json/districts.json
+```
 
 ## Installation
 ```bash
@@ -38,12 +51,12 @@ METRO_MAP_ID=6ee6a02b3cb3436982bd3b9a64dcc295
 ## Usage
 ```bash
 # Convert all data
-python src/main.py all
+python -m src.main all
 
 # Convert specific data
-python src/main.py metro    # Only metro lines and stations
-python src/main.py pois     # Only POIs
-python src/main.py districts # Only districts
+python -m src.main metro    # Only metro lines and stations
+python -m src.main pois     # Only POIs
+python -m src.main districts # Only districts
 ```
 
 ## Output Structure
@@ -54,8 +67,8 @@ output/
 │   └── stations.kml   # Metro stations with names
 ├── pois/
 │   └── riyadh_city_pois_by_category.kml
-├── streets/
 └── districts/
+    └── riyadh_city_districts.kml
 ```
 
 ## Metro Data Structure
@@ -71,3 +84,19 @@ The metro data contains:
 - Line 4: Yellow
 - Line 5: Green
 - Line 6: Purple
+
+## API Notes
+1. ArcGIS API:
+   - Requires appid from viewer URL
+   - Returns webmap configuration and layer data
+   - Supports JSON format output
+
+2. Visit Saudi API:
+   - Supports multiple locales (en, ar)
+   - Filters by city and region
+   - Categories can be specified for POI filtering
+
+3. Districts API:
+   - Static JSON data
+   - Includes boundaries, names in English and Arabic
+   - Contains region and city identifiers

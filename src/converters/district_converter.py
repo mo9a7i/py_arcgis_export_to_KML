@@ -31,7 +31,7 @@ class DistrictConverter:
         return [(coord[0], coord[1]) for coord in boundaries]
 
     def convert(self, data):
-        """Convert districts to KML"""
+        """Convert districts to KML without styling"""
         if not data:
             print("No district data to convert")
             return None
@@ -43,17 +43,11 @@ class DistrictConverter:
         for district in riyadh_districts:
             boundaries = district["boundaries"]
             
-            # Create polygon
+            # Create polygon without styling
             pol = folder.newpolygon(name=district["name_en"])
             coordinates = self._format_coordinates(boundaries)
             pol.outerboundaryis = coordinates
             
             pol.description = f"Arabic Name: {district['name_ar']} | City ID: {district['city_id']} | Region ID: {district['region_id']}"
-            
-            # Style the polygon
-            pol.style.polystyle.color = 'CC0000FF'
-            pol.style.polystyle.outline = 1
-            pol.style.linestyle.color = 'FF0000FF'
-            pol.style.linestyle.width = 2
 
         return self.output_manager.save_kml(kml, 'districts', 'riyadh_city_districts') 
